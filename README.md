@@ -24,4 +24,5 @@
 
 Бонусное задание: подумайте, как должно вести себя приложение, если вы при редактировании записи, нажмёте на удалить (крестик).
 
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://nikitakurys.github.io/ra-hw-10.1-editing/)
+[![Build status](https://ci.appveyor.com/api/projects/status/podd2q4rhujsvf81/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-hw-10-1-editing/branch/main)
